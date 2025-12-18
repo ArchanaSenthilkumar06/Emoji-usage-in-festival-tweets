@@ -1,5 +1,8 @@
 # 🎉 Festival Emoji Analytics Dashboard
+## 🌐 Live Dashboard
+The Festival Emoji Analytics Dashboard is deployed on Streamlit Cloud and can be accessed here:
 
+👉 https://emoji-usage-in-festival-tweets-ktfhuutylpshs6kqnv5x79.streamlit.app/
 A comprehensive, interactive Streamlit web application for analyzing festival-related social media data, focusing on emoji usage, sentiment analysis, and emotional insights. Built with a dark, neon-themed UI for an engaging user experience.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
